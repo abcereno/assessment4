@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/assessment4.git/static/css/main.ec6dcf85.css",
-    "main.js": "/assessment4.git/static/js/main.d98a6e04.js",
-    "static/js/787.fd333685.chunk.js": "/assessment4.git/static/js/787.fd333685.chunk.js",
-    "index.html": "/assessment4.git/index.html",
-    "main.ec6dcf85.css.map": "/assessment4.git/static/css/main.ec6dcf85.css.map",
-    "main.d98a6e04.js.map": "/assessment4.git/static/js/main.d98a6e04.js.map",
-    "787.fd333685.chunk.js.map": "/assessment4.git/static/js/787.fd333685.chunk.js.map"
+    "main.css": "/assessment4/static/css/main.ec6dcf85.css",
+    "main.js": "/assessment4/static/js/main.ac0c035a.js",
+    "static/js/787.fd333685.chunk.js": "/assessment4/static/js/787.fd333685.chunk.js",
+    "index.html": "/assessment4/index.html",
+    "main.ec6dcf85.css.map": "/assessment4/static/css/main.ec6dcf85.css.map",
+    "main.ac0c035a.js.map": "/assessment4/static/js/main.ac0c035a.js.map",
+    "787.fd333685.chunk.js.map": "/assessment4/static/js/787.fd333685.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec6dcf85.css",
-    "static/js/main.d98a6e04.js"
+    "static/js/main.ac0c035a.js"
   ]
 }
